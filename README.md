@@ -4,7 +4,7 @@
 
 Hunterdon Central Regional High School has been setup as an Organization in Github.
 
- ![](image/OrgImage.png)
+ ![](images/OrgImage.png)
 
 You will need to be added as a member of that organization.
 
